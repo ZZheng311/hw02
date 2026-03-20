@@ -1,1 +1,3 @@
-
+openai>=1.0.0  # 兼容火山引擎OpenAI接口
+python-dotenv>=1.0.0  # 读取.env环境变量
+requests>=2.31.0  # 底层网络请求依赖
